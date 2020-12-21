@@ -1,39 +1,21 @@
-## Welcome to GitHub Pages
+## Hunger? Dann lasst uns los legen!
 
-You can use the [editor on GitHub](https://github.com/leckeres/ottosmopskocht/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Egal ob spätabends oder kurz vor der Mittagessenszeit - Kochen geht immer. Und Essen auch. Hier sind eigentlich nur minimale Rezepte versammelt, aber ab und zu muss man auch mal länger dran arbeiten. Oder extra einkaufen gehen :scream_cat:
+### Extrem Schnell
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Grießbrei
 
-### Markdown
+### Schnell
 
-Works it?
+#### Roh gebratene Kartoffelwürfel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Backofenpommes
 
-```markdown
-Syntax highlighted code block
+#### Buletten (heikel, das für Berlin zu veröffentlichen)
 
-# Header 1
-## Header 2
-### Header 3
+### Nicht ganz so schnell
 
-- Bulleted
-- List
+#### Spätzle
 
-1. Numbered
-2. List
+#### Kartoffelklöße
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leckeres/ottosmopskocht/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
