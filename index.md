@@ -17,6 +17,16 @@ Egal ob spätabends oder kurz vor der Mittagessenszeit - Kochen geht immer. Und 
 
 #### Spätzle
 
+Zutaten für 3 Personen
+* 250g 550er Mehl, 250g Vollkornmehl. Im Zweifelsfall geht's auch mit nur normalem Mehl
+* 4 Eier
+* 1 TL Salz
+* 250ml Wasser
+
+Alles zusammenrühren und quellen lassen - wenn man Zeit hat! Der Teig muss sehr, sehr zäh sein: Wenn man mit dem Löffel rein geht, sollte der ganze Teigklumpen sich gummibandmäßig nach oben ziehen. Im Zweifelsfall also entweder Mehl dazu tun - oder Wasser...
+
+In einen großen Topf viel Wasser mit viel Salz: Es muss salzig sein wie Meerwasser. Wenn es kocht, mit der Spätzlepresse (3/4 jeweils füllen) die Spätzle reindrücken, mit dem Messer die 
+
 Wenn es so am Rührer aussieht, seid Ihr am Ziel:
 
 <img src="Teigklumpen.png" alt="Klumpen" width="200"/>
