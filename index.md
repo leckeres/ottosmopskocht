@@ -18,11 +18,18 @@ Egal ob spätabends oder kurz vor der Mittagessenszeit - Kochen geht immer. Und 
 #### Spätzle
 
 Wenn es so am Rührer aussieht, seid Ihr am Ziel:
-![SpaetzleRuehrer](Teigklumpen.png)
 
-<img src="SpaetzleSchuessel.png" alt="drawing" width="200"/>
+<img src="Teigklumpen.png" alt="Klumpen" width="200"/>
 
-Ganz wichtig: Knethaken statt Rührer ![Knethaken](Knethaken.png)
+Ganz wichtig: Knethaken statt Rührer
+
+<img src="Knethaken.png" alt="Haken" width="200"/>
+
+Je länger Ihr rührt, umso besser werden die Spätzle
+
+<img src="SpaetzleSchuessel.png" alt="Schüssel" width="200"/>
 
 #### Kartoffelklöße
+
+#### Supermarmor
 
